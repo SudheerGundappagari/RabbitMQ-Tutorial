@@ -1,5 +1,6 @@
 # RabbitMQ-Tutorial
 
+https://www.youtube.com/playlist?list=PLGRDMO4rOGcMh2fAMOnwuBMDa8PxiKWoN
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
